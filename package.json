@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.1",
+    "http-errors": "^1.8.1",
+    "jquery": "^3.6.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  }
+}
